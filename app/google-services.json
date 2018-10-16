@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "516014261488",
+    "project_id": "surplus-da3d3"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516014261488:android:3ba059d873414b58",
+        "android_client_info": {
+          "package_name": "edu.njit.surplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516014261488-bbpf9alsthu9tkok94hh3gumqpo6c5pv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "516014261488-6qttbj12lqad07gmgvrt79liqu6utmua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.njit.surplus",
+            "certificate_hash": "d290c7f16d9125b422464946188b7ce59da77db1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt3aVd2MZjrwpxTfdIDlho1hmEwZs2V6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

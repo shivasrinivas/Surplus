@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Surplus</string>
+    <string name="food">Food</string>
+    <string name="people">People</string>
+    <string name="details">Details</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="price">Price</string>
+    <string name="GPSAlertDialogTitle">Enable location services</string>
+    <string name="GPSAlertDialogMessage">Do you enable location services</string>
+    <string name="action_settings">YES</string>
+    <string name="cancel">NO</string>
+    <string name="description">Roti and Chapathi available for 20 people. Paneer curry available for 10 people and Dal available for 10 people.</string>
+    <string name="google_android_map_api_key">AIzaSyB-srXd7t7Gnria2jl9oiWRfEt4OqWSKf0</string>
+</resources>
